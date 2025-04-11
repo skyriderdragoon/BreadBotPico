@@ -1,6 +1,7 @@
 # BreadBot
 
-[![Made With](https://img.shields.io/badge/Made%20With-Micropython-<COLOR>.svg)](https://shields.io/)  [![Project Status](https://img.shields.io/badge/Status-Alpha-orange)](https://shields.io/)   
+[![Made With](https://img.shields.io/badge/Made%20With-Micropython-<COLOR>.svg)](https://shields.io/)  [![Project Status](https://img.shields.io/badge/Status-Alpha-orange)](https://shields.io/)   ![License](https://img.shields.io/github/license/skyriderdragoon/BreadBotPico)
+
 
 ---
 
