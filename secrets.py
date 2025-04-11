@@ -1,0 +1,5 @@
+SSID = "Your WiFi SSID"
+PASS = "Your WiFi Password"
+MQTT_USER = "Your MQTT Broker Username"
+MQTT_PASS = "Your MQTT Broker Password"
+MQTT_SERV = "Your MQTT Broker Server Address"
