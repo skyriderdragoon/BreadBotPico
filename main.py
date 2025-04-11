@@ -9,6 +9,7 @@ buzzer = PWM(13)
 button = Pin(16, Pin.IN)
 
 _data= None
+print("BreadBot  Copyright (C) 2025  Daniel Robertson")
 wifi.Setup()
 sensor.Setup()
 print("Setup complete")
